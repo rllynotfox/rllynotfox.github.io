@@ -1,4 +1,4 @@
-const CACHE = 'saper-inf-pwa-v2.5';
+const CACHE = 'saper-inf-pwa-v2.6';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', event => {
